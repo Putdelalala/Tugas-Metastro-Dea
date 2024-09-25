@@ -2,7 +2,7 @@
 # [Putri Dea Ramadhani]
 
 ## Screenshot Akun GitHub
-![Screenshot Akun GitHub](https://github.com/Putdelalala/Tugas-Metastro-Dea/blob/main/Screenshot%202024-09-25%20214641.png)
+![Screenshot Akun GitHub](https://github.com/Putdelalala/Tugas-Metastro-Dea/blob/main/Screenshot%202024-09-25%20220357.png)
 
 ## Project Terbaru: [Kecerdasan Buatan]
 
