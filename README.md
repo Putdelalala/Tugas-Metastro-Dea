@@ -7,7 +7,7 @@
 ## Project Terbaru: [Kecerdasan Buatan]
 
 ### Screenshot Project
-![Screenshot Project](https://github.com/Putdelalala/Tugas-Metastro-Dea/blob/main/Screenshot%202024-09-25%20214616.png)
+![Screenshot Project](https://github.com/Putdelalala/Tugas-Metastro-Dea/blob/main/Screenshot%202024-09-25%20220327.png)
 
 ### Deskripsi Project
 [Isi dengan deskripsi singkat project Anda]
