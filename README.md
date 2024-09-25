@@ -9,32 +9,12 @@
 ### Screenshot Project
 ![Screenshot Project](https://github.com/Putdelalala/Tugas-Metastro-Dea/blob/main/Screenshot%202024-09-25%20220327.png)
 
-### Deskripsi Project
-[Isi dengan deskripsi singkat project Anda]
-
-### Fitur Utama
-- [Fitur 1]
-- [Fitur 2]
-- [Fitur 3]
-
 ### Cara Menggunakan
-1. [Langkah 1]
-2. [Langkah 2]
-3. [Langkah 3]
+1- Locate your Unity's templates folders.
+On Mac is something like: /Applications/Unity/Hub/Editor/<VERSION>/Unity.app/Contents/Resources/PackageManager/ProjectTemplates
+On windows: \Program Files\Unity\Hub\Editor\<VERSION>\Editor\Data\Resources\PackageManager\ProjectTemplates
+2- Put the tgz archive on there.
+3- Optional: Restart the hub if you had it open.
+4- Open Unity Hub and you'll see the new template called VR.
 
-### Teknologi yang Digunakan
-- [Teknologi 1]
-- [Teknologi 2]
-- [Teknologi 3]
 
-### Kontribusi
-[Jelaskan bagaimana orang lain dapat berkontribusi pada project Anda]
-
-### Lisensi
-[Sebutkan lisensi project Anda]
-
-### Kontak
-[Informasi kontak Anda]
-
----
-© [Tahun] [Nama Anda]. Hak Cipta Dilindungi.
