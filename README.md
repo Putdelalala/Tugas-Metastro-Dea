@@ -7,7 +7,7 @@
 ## Project Terbaru: [Nama Project]
 
 ### Screenshot Project
-![Screenshot Project](URL_SCREENSHOT_PROJECT)
+![Screenshot Project](https://github.com/Putdelalala/Tugas-Metastro-Dea/blob/main/Screenshot%202024-09-25%20214616.png)
 
 ### Deskripsi Project
 [Isi dengan deskripsi singkat project Anda]
