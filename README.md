@@ -1,8 +1,8 @@
 # Tugas-Metastro-Dea
-# [Nama Anda]
+# [Putri Dea Ramadhani]
 
 ## Screenshot Akun GitHub
-![Screenshot Akun GitHub](URL_SCREENSHOT_AKUN_GITHUB)
+![Screenshot Akun GitHub](https://github.com/Putdelalala/Tugas-Metastro-Dea/blob/main/Screenshot%202024-09-25%20212545.png)
 
 ## Project Terbaru: [Nama Project]
 
