@@ -4,7 +4,7 @@
 ## Screenshot Akun GitHub
 ![Screenshot Akun GitHub](https://github.com/Putdelalala/Tugas-Metastro-Dea/blob/main/Screenshot%202024-09-25%20220357.png)
 
-## Project Terbaru: [Kecerdasan Buatan]
+## Project Terbaru: [UnityVRTemplate]
 
 ### Screenshot Project
 ![Screenshot Project](https://github.com/Putdelalala/Tugas-Metastro-Dea/blob/main/Screenshot%202024-09-25%20220327.png)
