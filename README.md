@@ -4,7 +4,7 @@
 ## Screenshot Akun GitHub
 ![Screenshot Akun GitHub](https://github.com/Putdelalala/Tugas-Metastro-Dea/blob/main/Screenshot%202024-09-25%20214641.png)
 
-## Project Terbaru: [Nama Project]
+## Project Terbaru: [Kecerdasan Buatan]
 
 ### Screenshot Project
 ![Screenshot Project](https://github.com/Putdelalala/Tugas-Metastro-Dea/blob/main/Screenshot%202024-09-25%20214616.png)
